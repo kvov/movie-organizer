@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kvov/movie-organizer/static/css/main.2c898973.chunk.css",
+    "main.js": "/kvov/movie-organizer/static/js/main.a733b122.chunk.js",
+    "main.js.map": "/kvov/movie-organizer/static/js/main.a733b122.chunk.js.map",
+    "runtime-main.js": "/kvov/movie-organizer/static/js/runtime-main.e76399b6.js",
+    "runtime-main.js.map": "/kvov/movie-organizer/static/js/runtime-main.e76399b6.js.map",
+    "static/js/2.29f882fd.chunk.js": "/kvov/movie-organizer/static/js/2.29f882fd.chunk.js",
+    "static/js/2.29f882fd.chunk.js.map": "/kvov/movie-organizer/static/js/2.29f882fd.chunk.js.map",
+    "index.html": "/kvov/movie-organizer/index.html",
+    "static/css/main.2c898973.chunk.css.map": "/kvov/movie-organizer/static/css/main.2c898973.chunk.css.map",
+    "static/js/2.29f882fd.chunk.js.LICENSE.txt": "/kvov/movie-organizer/static/js/2.29f882fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e76399b6.js",
+    "static/js/2.29f882fd.chunk.js",
+    "static/css/main.2c898973.chunk.css",
+    "static/js/main.a733b122.chunk.js"
+  ]
+}

@@ -1,0 +1,48 @@
+
+.list-page {
+    padding: 0px calc(50% - 300px);
+}
+
+.list-page__title {
+    font-size: 34px;
+    margin-bottom: 26px;
+}
+
+.list-page ul li {
+    font-size: 18px;
+}
+
+.list-page__title {
+    font-size: 34px;
+    margin: 26px 0;
+    text-align: center;
+  }
+  
+  .list-page ul li {
+    padding: 20px;
+    background-color: #ffeedb;
+    display: flex;
+  }
+  .list-page__single-movie {
+    font-size: 18px;
+    margin-bottom: 30px;
+    display: flex;
+    box-sizing: border-box;
+    padding: 20px;
+  }
+  .single-movie__poster {
+    height: 150px;
+    margin-right: 21px;
+  }
+  
+  .list-page__link-imdb {
+    padding: 5px;
+    text-decoration: none;
+    
+  }
+  
+  .link-imdb {
+    margin: 5px 0;
+    display: block;
+  }
+
